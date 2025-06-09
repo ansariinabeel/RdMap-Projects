@@ -1,3 +1,3 @@
 # Sigle Page CV
 [Project Link]
-(https://github.com/ansariinabeel/RdMap-Projects.git)
+(https://roadmap.sh/projects/single-page-cv)
